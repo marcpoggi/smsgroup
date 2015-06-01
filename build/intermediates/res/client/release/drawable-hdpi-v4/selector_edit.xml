@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:state_enabled="false"
+    android:drawable="@drawable/icone_edit_dis"/>
+<item
+    android:state_enabled="true"
+    android:drawable="@drawable/icone_edit" />
+</selector><!-- From: file:/C:/Users/mpoggi/AndroidStudioProjects/Nodejs/smsGroup/src/main/res/drawable-hdpi/selector_edit.xml -->

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SMS by Group</string>
+    <string name="title_activity_main">Groups</string>
+    <string name="poubelle">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="add_man">Add one</string>
+    <string name="add_rep">Add from rep</string>
+    <string name="redaction">Write</string>
+    <string name="title_activity_testeur">Contacts</string>
+    <string name="telname">Tel*  / Display name</string>
+    <string name="progress_message">Sending the messages</string>
+    <string name="move">Move</string>
+    <string name="annuler">Cancel</string>
+    <string name="groupname">Group name</string>
+    <string name="telephone">Phone number*</string>
+    <string name="call">Dial</string>
+    <string name="contactname">Name to display</string>
+    <string name="choixfichier">File pick</string>
+    <string name="orphelin">Bin</string>
+    <string name="aide">Help</string>
+    <string name="filsms">Look at all sms</string>
+    <string name="dernier">Last messages</string>
+
+    <string-array name="choix_import">
+        <item>Add Group Manually</item>
+        <item>Import from CSV</item>
+    </string-array>
+
+    <string name="title_activity_last_messages">LastMessagesActivity</string>
+
+</resources>

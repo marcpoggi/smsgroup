@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/mpoggi/AndroidStudioProjects/Nodejs/smsGroup/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string-array name="choix_import">
+        <item>Add Group Manually</item>
+        <item>Import from CSV</item>
+    </string-array>
+    <!-- From: file:/C:/Users/mpoggi/AndroidStudioProjects/Nodejs/smsGroup/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="aqua">#00FFFF</color>
+    <color name="black">#000000</color>
+    <color name="blue">#0000FF</color>
+    <color name="fuchsia">#FF00FF</color>
+    <color name="gray">#808080</color>
+    <color name="green">#008000</color>
+    <color name="lime">#00FF00</color>
+    <color name="maroon">#800000</color>
+    <color name="navy">#000080</color>
+    <color name="olive">#808000</color>
+    <color name="purple">#800080</color>
+    <color name="red">#FF0000</color>
+    <color name="silver">#C0C0C0</color>
+    <color name="teal">#008080</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#FFFF00</color>
+    <!-- From: file:/C:/Users/mpoggi/AndroidStudioProjects/Nodejs/smsGroup/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="taille_liste_principal">20dp</dimen>
+    <!-- From: file:/C:/Users/mpoggi/AndroidStudioProjects/Nodejs/smsGroup/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="add_man">Add one</string>
+    <string name="add_rep">Add from rep</string>
+    <string name="aide">Help</string>
+    <string name="annuler">Cancel</string>
+    <string name="app_name">SMS by Group</string>
+    <string name="call">Dial</string>
+    <string name="choixfichier">File pick</string>
+    <string name="contactname">Name to display</string>
+    <string name="dernier">Last messages</string>
+    <string name="edit">Edit</string>
+    <string name="filsms">Look at all sms</string>
+    <string name="groupname">Group name</string>
+    <string name="move">Move</string>
+    <string name="orphelin">Bin</string>
+    <string name="poubelle">Delete</string>
+    <string name="progress_message">Sending the messages</string>
+    <string name="redaction">Write</string>
+    <string name="telephone">Phone number*</string>
+    <string name="telname">Tel*  / Display name</string>
+    <string name="title_activity_last_messages">LastMessagesActivity</string>
+    <string name="title_activity_main">Groups</string>
+    <string name="title_activity_testeur">Contacts</string>
+    <!-- From: file:/C:/Users/mpoggi/AndroidStudioProjects/Nodejs/smsGroup/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+       <item name="android:textViewStyle">@style/texte_liste_principal</item>
+  	</style>
+    <style name="defaultTextView" parent="@android:style/TextAppearance.Medium">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="texte_liste_principal" parent="defaultTextView">
+        <item name="android:textSize">@dimen/taille_liste_principal</item>
+        <item name="android:textColor">#112288</item>
+        <item name="android:layout_marginTop">1dp</item>
+        <item name="android:layout_marginLeft">1dp</item>
+    </style>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/mpoggi/AndroidStudioProjects/Nodejs/smsGroup/src/main/res/values-es/strings.xml -->
+    <eat-comment/>
+    <string-array name="choix_import">
+        <item>Add Group Manually</item>
+        <item>Import from CSV</item>
+    </string-array>
+    <string name="add">Incluir</string>
+    <string name="add_man">Incluir unos</string>
+    <string name="add_rep">Incluir desde rep</string>
+    <string name="aide">Help</string>
+    <string name="annuler">Cancel</string>
+    <string name="app_name">SMS by Group</string>
+    <string name="call">Dial</string>
+    <string name="choixfichier">File pick</string>
+    <string name="contactname">Name to display</string>
+    <string name="dernier">Last messages</string>
+    <string name="edit">Editar</string>
+    <string name="filsms">Buscar sms</string>
+    <string name="groupname">Group name</string>
+    <string name="move">Move</string>
+    <string name="orphelin">Bin</string>
+    <string name="poubelle">Canasta</string>
+    <string name="progress_message">Sending the messages</string>
+    <string name="redaction">Redactar</string>
+    <string name="telephone">Phone number*</string>
+    <string name="telname">Tel*  / Display name</string>
+    <string name="title_activity_last_messages">Historico</string>
+    <string name="title_activity_main">Groupos</string>
+    <string name="title_activity_testeur">Contactos</string>
+</resources>

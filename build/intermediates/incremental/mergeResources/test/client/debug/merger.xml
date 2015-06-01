@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\mpoggi\AndroidStudioProjects\Nodejs\smsGroup\src\androidTest\res"/><source path="C:\Users\mpoggi\AndroidStudioProjects\Nodejs\smsGroup\build\generated\res\rs\test\client\debug"/><source path="C:\Users\mpoggi\AndroidStudioProjects\Nodejs\smsGroup\build\generated\res\generated\test\client\debug"/></dataSet><dataSet config="androidTestClient"><source path="C:\Users\mpoggi\AndroidStudioProjects\Nodejs\smsGroup\src\androidTestClient\res"/></dataSet><mergedItems/></merger>

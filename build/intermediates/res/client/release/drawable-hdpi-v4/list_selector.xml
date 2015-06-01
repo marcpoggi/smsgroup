@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:drawable="@color/silver"  android:state_selected="true"/>
+    <item android:drawable="@color/silver"  android:state_activated="true"/>
+</selector>
+<!-- From: file:/C:/Users/mpoggi/AndroidStudioProjects/Nodejs/smsGroup/src/main/res/drawable-hdpi/list_selector.xml -->

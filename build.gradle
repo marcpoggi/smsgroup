@@ -1,0 +1,37 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion "20.0.0"
+
+    defaultConfig {
+        applicationId 'com.feeltest.smsgroup'
+        minSdkVersion 16
+        targetSdkVersion 19
+    }
+
+    buildTypes {
+
+        debug {
+            debuggable true
+            runProguard false
+        }
+        release {
+            debuggable false
+            runProguard true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-project.txt'
+        }
+    }
+
+    productFlavors {
+        lamienne {}
+        client {
+            applicationId 'com.feeltest.smsgroup'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:19.0.0'
+    compile 'com.google.guava:guava:18.0'
+}

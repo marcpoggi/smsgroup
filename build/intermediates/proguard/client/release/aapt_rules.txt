@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:95
+-keep class com.feeltest.smsgroup.LastMessagesActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:79
+-keep class com.feeltest.smsgroup.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:89
+-keep class com.feeltest.smsgroup.TesteurActivity { <init>(...); }
+

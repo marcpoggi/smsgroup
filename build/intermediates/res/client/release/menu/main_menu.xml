@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.feeltest.smsgroup.MainActivity" >
+    <item android:id="@+id/item_poubelle" android:icon="@drawable/icone_poubelle" android:showAsAction="ifRoom" android:title="@string/poubelle" android:titleCondensed=" " android:orderInCategory="500"></item>
+    <item android:id="@+id/item_edit" android:title="@string/edit" android:icon="@drawable/selector_edit" android:showAsAction="ifRoom" android:orderInCategory="200"></item>
+    <item android:id="@+id/item_add" android:title="@string/add" android:showAsAction="ifRoom" android:icon="@drawable/selector_plus" android:orderInCategory="400"></item>
+    <item android:id="@+id/item_mail" android:title="@string/redaction" android:icon="@drawable/selector_mail" android:showAsAction="ifRoom" android:orderInCategory="300"></item>
+    <item android:id="@+id/item_view" android:icon="@drawable/selector_view" android:title="view" android:showAsAction="ifRoom" android:orderInCategory="100"></item>
+    <item android:id="@+id/item_help" android:title="@string/aide" android:showAsAction="ifRoom" android:orderInCategory="600"></item>
+    <item android:id="@+id/item_last" android:title="@string/dernier" android:showAsAction="ifRoom" android:orderInCategory="400"></item>
+
+</menu>
+<!-- From: file:/C:/Users/mpoggi/AndroidStudioProjects/Nodejs/smsGroup/src/client/res/menu/main_menu.xml -->
